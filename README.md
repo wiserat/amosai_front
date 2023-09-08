@@ -1,5 +1,4 @@
-## Web is in development
-# ['Website'](https://amosai.web.app)
+# [Website](https://amosai.web.app)
 
 # create-svelte
 
